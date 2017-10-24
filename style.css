@@ -1,0 +1,37 @@
+/* CSS Document */
+body {
+	width: 800px;
+	margin: 10px auto;
+	background-color: darkgrey;
+}
+
+#chatRoom {
+	background: #CFCFCF;
+	padding: 5px;
+	margin: 5px;
+}
+
+#chatForm {
+	background: #777777;
+	padding: 20px;
+}
+.logs {
+	color: #006A37;
+}
+
+.log-text {
+	color: #9F3D3E; 
+}
+
+.message {
+	color: #044B01;
+}
+
+.message-name {
+	color: #083300;
+	font-weight: 600;
+}
+
+h2.allert {
+	color: #C40F12;
+}
